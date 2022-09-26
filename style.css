@@ -1,0 +1,9 @@
+@font-face {
+  font-family: devil;
+  src: url(/YugitoyRegular-0W8xG.ttf);
+}
+
+h1 {
+  font-family: devil;
+  font-weight: 900;
+}
